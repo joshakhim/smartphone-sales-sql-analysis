@@ -1,0 +1,9 @@
+phone_id,brand,price,ram_gb,storage_gb,battery_mah,rating,model
+1,Samsung,889000,12,256,5000,4.7,"Galaxy S24"
+2,Apple,1900000,8,256,4200,4.8,"iPhone 15"
+3,Vivo,790000,12,512,5100,4.5,"Vivo X100"
+4,Xiaomi,300000,8,256,5000,4.4,"Redmi Note 13"
+5,Samsung,490000,8,128,4800,4.3,"Galaxy A54"
+6,Apple,1450000,6,128,4000,4.6,"iPhone 14"
+7,Vivo,580000,12,256,5000,4.4,"Vivo V30"
+8,Xiaomi,1300000,16,512,5200,4.7,"Xiaomi 14"
